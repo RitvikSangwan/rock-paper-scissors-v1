@@ -18,7 +18,7 @@ img{
     outline: none;
 }
 .tie{
-	background: linear-gradient(to top,#FF4500  50%, #DC143C 50%);
+	background: linear-gradient(to top,#DC143C 50%,#ADFF2F  50%);
 	transition: background 1s;
 }
 .user{
