@@ -1,0 +1,31 @@
+body{
+	background-color: #94d2e6;
+	text-align: center;
+}
+img{
+	width: 250px;
+	height: 250px;
+}
+#reset{
+	/*background: none;*/
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: #00FF00;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.3s;
+    outline: none;
+}
+.tie{
+	background: linear-gradient(to top,#FF4500  50%, #DC143C 50%);
+	transition: background 1s;
+}
+.user{
+	background-color: #ADFF2F;
+	transition: background 1s;
+}
+.computer{
+	background-color: #DC143C;
+	transition: background 1s;
+}
